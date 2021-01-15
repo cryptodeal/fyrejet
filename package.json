@@ -53,7 +53,7 @@
     "express": "^4.17.1",
     "finalhandler": "~1.1.2",
     "fresh": "0.5.2",
-    "low-http-server": "^2.1.1",
+    "low-http-server": "github:cryptodeal/low-http-server",
     "lru-cache": "^6.0.0",
     "methods": "~1.1.2",
     "on-change": "^2.2.0",
@@ -91,7 +91,7 @@
     "should": "13.2.3",
     "standard": "^14.3.4",
     "supertest": "^5.0.0",
-    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v18.5.0",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v18.14.0",
     "vhost": "~3.0.2"
   },
   "eslintConfig": {
